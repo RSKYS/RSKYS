@@ -2,10 +2,10 @@
 
 ## 💫 About me
 
-Usually like to mess with techs I study for as far as I can get my hands on them!
+Usually like to mess with techs I study for as far as I can get my hands on them! \
 I also like C, Python, various Linux distributions, pentesting and spending time alone.
 
-My USDT(ETH) Address: 0x121bF029140A7736e155A39E522271bfD821C4af
+My USDT(ETH) Address: 0x121bF029140A7736e155A39E522271bfD821C4af \
 (More payment methods on their way)
 
 ## 📝 Reach me

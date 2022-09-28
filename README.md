@@ -1,6 +1,6 @@
 <img src="assets/red.gif" alt="!red" width="100%">
 
-## 💫 About me
+## About me
 
 Usually like to mess with techs I study for as far as I can get my hands on them! \
 I also like C, Python, various Linux distributions, pentesting and spending time alone.
